@@ -50,6 +50,7 @@ class Motocicleta(Vehiculo):
     def __init__(self, marca, modelo, velocidad,cilindraje):
         self.cilindraje = cilindraje
         super().__init__(marca, modelo, velocidad)
+        print("hola")
 
         #metodo propio
     def caballito(self):
