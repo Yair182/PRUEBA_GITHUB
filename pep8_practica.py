@@ -65,7 +65,8 @@ moto = Motocicleta(
     velocidad = "100km/h",
     cilindraje = "450cc")
 
-
+print("hola")
 moto.mostrar_informacion()
 moto.acelerar()
 moto.caballito()
+
