@@ -17,6 +17,7 @@ class Vehiculo:
         print(f"aumentando de 0 a {self.velocidad}km/h.")
 
 
+# CLASE HIJA -> Problablemente necesite una mejora Perrita
 #clase hija
 class Auto(Vehiculo):
 
